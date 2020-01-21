@@ -1,6 +1,7 @@
 # Machine Learning Nanodegree #
-[![Certificate.png](https://i.postimg.cc/MH2ys5gp/Certificate.png)](https://postimg.cc/5YgYyBxh)
-Projects from Udacity's [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t), completed Jan 2020
+### Projects from Udacity's [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) ###
+[![Certificate.png](https://i.postimg.cc/MH2ys5gp/Certificate.png)](https://postimg.cc/5YgYyBxh) <br> <br> 
+
 
 
 ## Create a Sentiment Analysis Model using AWS SageMaker ##
